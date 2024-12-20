@@ -39,26 +39,6 @@ O objetivo principal do projeto foi realizar análises e visualizações sobre o
 
 ---
 
-## **Como Executar**
-
-1. **Pré-requisitos:**
-   - Python 3.x instalado.
-   - Bibliotecas necessárias: `numpy`, `pandas`, `matplotlib`.
-   - Dataset `apples_ts.csv`.
-
-2. **Passos para execução:**
-   - Clone este repositório:
-     ```bash
-     git clone https://github.com/seu-usuario/nome-do-repositorio.git
-     ```
-   - Abra o arquivo do notebook no Google Colab ou em outro ambiente compatível.
-   - Certifique-se de que o arquivo `apples_ts.csv` esteja no mesmo diretório ou carregado no ambiente.
-
-3. **Executar o notebook:**
-   - Siga as células sequencialmente para visualizar e replicar as análises.
-
----
-
 ## **Principais Resultados**
 
 - Comparação de preços em diferentes cidades ao longo de 4 anos.
