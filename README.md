@@ -1,7 +1,7 @@
 # **Análise de Dados com Python: Preços de Maçãs**
 
 Este repositório contém um projeto desenvolvido em Python para a análise e tratamento de dados relacionados aos preços de maçãs em diferentes cidades da Rússia.
-O projeto utiliza as bibliotecas **Numpy** e **Pandas** e foi inteiramente realizado no Google Colab.
+O projeto utiliza as bibliotecas **Numpy** e **Matplotlib** e foi inteiramente realizado no Google Colab.
 
 ---
 
